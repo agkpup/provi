@@ -14,7 +14,7 @@ var customerOrder = require('./routes/customerOrder')
 var con = mysql.createConnection({
   host: "localhost",
   user: "root",
-  password: "",
+  password: "Abhay@ue198003",
   database:'provi'
 });
 
