@@ -12,7 +12,7 @@ router.use(express.urlencoded({extended:true}));
 var con = mysql.createConnection({
   host: "localhost",
   user: "root",
-  password: "",
+  password: "Abhay@ue198003",
   database:'provi'
 });
 
